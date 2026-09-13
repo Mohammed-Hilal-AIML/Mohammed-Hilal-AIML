@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 🎓 **B.E. CSE (AI & ML)** graduate — class of **2026** (CGPA 7.74/10)
+- 🎓 **B.E. CSE (AI & ML)** graduate — Batch of **2026** (CGPA 7.74/10)
 - 🤖 Focused on **Machine Learning, NLP, and Generative AI**
 - 🛠️ I build **end-to-end** — not just notebooks. From data → model → deployed app
 - 💼 Completed **2 AI/ML internships** at CODTECH IT Solutions
